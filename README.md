@@ -12,6 +12,7 @@ The package contains both the infrastructure (CDK code) and the application code
 
 <img  src="./slack_bot/images/slack_bot_design.svg"  width="60%"  height="60%"  />
 
+<img  src="./slack_bot/images/demo_screenshot.png"  width="40%"  height="60%"  />
 
 ## Prerequisites
 

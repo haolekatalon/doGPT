@@ -1,0 +1,7 @@
+requests
+boto3
+slack_sdk
+langchain
+langchain_openai
+python-dotenv
+langchain-pinecone

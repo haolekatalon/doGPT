@@ -1,0 +1,16 @@
+name: langchain-aws-slack-bot
+channels:
+  - https://conda.anaconda.org/conda-forge
+dependencies:
+  - python=3.9
+  - pip
+  - pip:
+    - aws-cdk-lib
+    - langchain
+    - langchain-openai
+    - boto3
+    - requests
+    - openai
+    - slack_sdk
+    - python-dotenv
+    - langchain-pinecone

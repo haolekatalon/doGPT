@@ -24,6 +24,8 @@ The package contains both the infrastructure (CDK code) and the application code
 
 - AWS account configured with credentials (https://docs.aws.amazon.com/cdk/v2/guide/getting_started.html#getting_started_prerequisites)
 
+- Pinecone vectorstore
+
 - openai api key saved in Secrets Manager in your AWS Account
 
 - Expected secret name is `slack-bot-secrets`
